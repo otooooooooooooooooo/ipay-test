@@ -1,0 +1,1 @@
+implementation of initiating payment for online shop using BoG-s iPay API.
